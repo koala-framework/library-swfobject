@@ -1,0 +1,8 @@
+{
+	"name": "koala-framework/library-swfobject",
+	"description": "SWFObject JavaScript Library",
+	"homepage": "https://github.com/swfobject/swfobject",
+	"license": "MIT",
+	"support": {
+	}
+}
